@@ -1,13 +1,12 @@
 import 'package:banhat/data/models/category_model.dart';
-import 'package:flutter/foundation.dart';
 
 class Product {
   String? id;
-  String? title;
   int? price;
+  String? title;
   String? description;
-  CategoryModel? category;
   List<String>? images;
+  CategoryModel? category;
 
   Product({
     required this.id,
@@ -17,7 +16,6 @@ class Product {
     required this.category,
     required this.description,
   });
-
 
   factory Product.fromJson(Map<String, dynamic> json) {
     return Product(
@@ -32,31 +30,5 @@ class Product {
           ? List<String>.from(json['images'])
           : [],
     );
-  }
-}
-
-class CategoryModel {
-  String id;
-  String? name;
-  String? images;
-
-  CategoryModel({required this.id, required this.name, required this.images});
-
-   // ✅ THÊM: chuyển JSON → object
-  factory CategoryModel.fromJson(Map<String, dynamic> json) {
-    return CategoryModel(
-      id: json['id']?.toString() ?? '',
-      name: json['name'],
-      images: json['images'],
-    );
-  }
-
-  // CHUYỂN TỪ OBJECT → JSON
-  Map<String, dynamic> toJson() {
-    return {
-      'id': id,
-      'name': name,
-      'images': images,
-    };
   }
 }
