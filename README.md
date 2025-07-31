@@ -24,11 +24,11 @@ This project was developed by me
 ## 📸 Screenshots
 
 <p float="left">
-  <img src="https://res.cloudinary.com/drkjgtjx7/image/upload/v1753980385/Screenshot_2025-07-31-23-38-18-218_com.example.banhat_kbngoy.jpg" width="250" />
-  <img src="https://res.cloudinary.com/drkjgtjx7/image/upload/v1753980385/Screenshot_2025-07-31-23-38-03-649_com.example.banhat_xyejfg.jpg" width="250" />
-  <img src="https://res.cloudinary.com/drkjgtjx7/image/upload/v1753980385/Screenshot_2025-07-31-23-38-07-306_com.example.banhat_plukxi.jpg" width="250" />
+  <img src="https://res.cloudinary.com/drkjgtjx7/image/upload/v1753982311/Screenshot_2025-08-01-00-16-44-075_com.example.banhat_jydayf.jpg" width="250" />
+  <img src="https://res.cloudinary.com/drkjgtjx7/image/upload/v1753982312/Screenshot_2025-08-01-00-16-56-883_com.example.banhat_fnrm4x.jpg" width="250" />
+  <img src="https://res.cloudinary.com/drkjgtjx7/image/upload/v1753982311/Screenshot_2025-08-01-00-15-19-317_com.example.banhat_mp8tci.jpg" width="250" />
   <img src="https://res.cloudinary.com/drkjgtjx7/image/upload/v1753980385/Screenshot_2025-07-31-23-38-10-488_com.example.banhat_ebqxjj.jpg" width="250" />
-  <img src="https://res.cloudinary.com/drkjgtjx7/image/upload/v1753981194/Screenshot_2025-07-31-23-56-01-269_com.example.banhat_sikhda.jpg" width="250" />
+  <img src="https://res.cloudinary.com/drkjgtjx7/image/upload/v1753982310/Screenshot_2025-08-01-00-15-22-544_com.example.banhat_me9g5n.jpg" width="250" />
 </p>
 
 ---
