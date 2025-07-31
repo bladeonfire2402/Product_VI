@@ -1,4 +1,4 @@
-# 🎯 App Prodcut_VI
+# 🎯 App Product_VI
 
 ![Maintenance](https://img.shields.io/badge/Maintenance-yes-brightgreen) 
 ![Ask Me Anything](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
@@ -8,12 +8,14 @@
 
 ---
 
-## 📌 About My Profile
+## 📌 About Product_VI
 
-**My Profile App** is a simple Flutter application designed with two main screens to display:
+**Product_VI App** is a simple Flutter application designed with four main screens to display:
 
-- My personal information
-- My journey learning Flutter and mobile app development
+- Product List Page
+- Create Product Page
+- Pagination List Products Page
+- Product Detail
 
 This project was developed as part of the **TechVerse Bootcamp - Application Development** module.
 
@@ -24,14 +26,20 @@ This project was developed as part of the **TechVerse Bootcamp - Application Dev
 <p float="left">
   <img src="https://res.cloudinary.com/drkjgtjx7/image/upload/v1753980385/Screenshot_2025-07-31-23-38-18-218_com.example.banhat_kbngoy.jpg" width="250" />
   <img src="https://res.cloudinary.com/drkjgtjx7/image/upload/v1753980385/Screenshot_2025-07-31-23-38-03-649_com.example.banhat_xyejfg.jpg" width="250" />
+  <img src="https://res.cloudinary.com/drkjgtjx7/image/upload/v1753980385/Screenshot_2025-07-31-23-38-07-306_com.example.banhat_plukxi.jpg" width="250" />
+  <img src="https://res.cloudinary.com/drkjgtjx7/image/upload/v1753980385/Screenshot_2025-07-31-23-38-10-488_com.example.banhat_ebqxjj.jpg" width="250" />
+  <img src="https://res.cloudinary.com/drkjgtjx7/image/upload/v1753981194/Screenshot_2025-07-31-23-56-01-269_com.example.banhat_sikhda.jpg" width="250" />
 </p>
 
 ---
 
 ## ⚙️ Features
 
-- 🧑 Profile page with name, title, and contact info
-- ✉️ Email field with clickable copy
+- 🧑 Product Pages with input proucts limits to view
+- ✉️ Create Product form to add product, button to add images from links to view
+- 😂 Delete products by id
+- 💕 View Product by Id
+- ⛽ Overall state management by GetX
 - 🎨 Clean and beginner-friendly UI
 - 🌐 Responsive design (Web, Android, iOS supported)
 
@@ -42,4 +50,12 @@ This project was developed as part of the **TechVerse Bootcamp - Application Dev
 1. **Clone this repo**
    ```bash
    git clone https://github.com/yourusername/my_profile_app.git
-   cd my_profile_app
+   cd "to my app"
+2. **Add package**
+   ```bash
+   flutter pub get
+3. **Run App**
+   ```bash
+   flutter run
+   
+   
