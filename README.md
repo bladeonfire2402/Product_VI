@@ -17,7 +17,7 @@
 - Pagination List Products Page
 - Product Detail
 
-This project was developed as part of the **TechVerse Bootcamp - Application Development** module.
+This project was developed by me
 
 ---
 
