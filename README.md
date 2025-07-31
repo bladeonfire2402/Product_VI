@@ -22,8 +22,8 @@ This project was developed as part of the **TechVerse Bootcamp - Application Dev
 ## 📸 Screenshots
 
 <p float="left">
-  <img src="screenshots/screen1.png" width="250" />
-  <img src="screenshots/screen2.png" width="250" />
+  <img src="https://res.cloudinary.com/drkjgtjx7/image/upload/v1753980385/Screenshot_2025-07-31-23-38-18-218_com.example.banhat_kbngoy.jpg" width="250" />
+  <img src="https://res.cloudinary.com/drkjgtjx7/image/upload/v1753980385/Screenshot_2025-07-31-23-38-03-649_com.example.banhat_xyejfg.jpg" width="250" />
 </p>
 
 ---
