@@ -4,11 +4,11 @@
 ![Ask Me Anything](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
 ![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS%20%7C%20Web-blue)
 
-<img src="https://drive.google.com/u/0/drive-viewer/AKGpihZhSFzteQ_THwhQ-mERNb3pqtQDT2IUfKFx2s1j3xz60oB1Tp-6woA0X6PxTdqvjLLVNQ5e1X27LTUv4N3ofY_bRjm2XxDGaqU=s1600-rw-v1" width="200" alt="App Avatar" align="center" />
 
 ---
 
 ## 📌 About Product_VI
+Product VI is a powerful and intuitive app designed to help you manage your products efficiently and effortlessly. Whether you're a small business owner, warehouse manager, or e-commerce seller, Product VI gives you full control over your inventory in real-time.
 
 **Product_VI App** is a simple Flutter application designed with four main screens to display:
 
